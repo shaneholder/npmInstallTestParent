@@ -7,6 +7,6 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "npmInstallTest": "https://github.com/shaneholder/npmInstallTest.git"
+    "npmInstallTest": "git+https://github.com/shaneholder/npmInstallTest.git"
   }
 }
