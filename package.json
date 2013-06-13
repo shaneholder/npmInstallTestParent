@@ -7,6 +7,6 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "npmInstallTest": "file://C:/d/Cubixx/Device/npmInstallTest/npmInstallTest-0.0.1.tgz"
+    "npmInstallTest": "https://github.com/shaneholder/npmInstallTest.git"
   }
 }
