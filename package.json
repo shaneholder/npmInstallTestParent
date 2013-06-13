@@ -1,0 +1,12 @@
+{
+  "name": "npmInstallTestParent",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "npmInstallTest": "file://C:/d/Cubixx/Device/npmInstallTest/npmInstallTest-0.0.1.tgz"
+  }
+}
